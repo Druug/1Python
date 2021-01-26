@@ -1,0 +1,11 @@
+FatherName = input("Enter your father name : ")
+x = int(input("Enter your father age : "))
+print("----------------------------------")
+
+SonName = input("Enter your name : ")
+y = int(input("Your age : "))
+print("----------------------------------")
+
+z = x - y
+print("Difference age is",z)
+print("----------------------------------")
